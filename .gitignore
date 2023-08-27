@@ -7,4 +7,10 @@ group_vars/all/vars.yml
 hosts
 .vscode
 TODO.md
-sites/asda
+sites/*yml
+!sites/vars.yml
+sites/makefiles/*
+!sites/makefiles/ping
+!sites/makefiles/newsite
+!sites/newsite.yml
+sites/files/*.conf
