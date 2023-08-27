@@ -1,2 +1,0 @@
-newsite:
-	ansible-playbook ../newsite.yml -i ../hosts
