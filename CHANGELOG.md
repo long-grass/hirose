@@ -1,3 +1,12 @@
+## [0.69.3](https://github.com/cerico/macfair/compare/v0.69.2...v0.69.3) (2023-08-27)
+
+
+### Bug Fixes
+
+* remove ignored files ([baa38a6](https://github.com/cerico/macfair/commit/baa38a6784fba855b39f89e0668d0184d75259eb))
+
+
+
 ## [0.69.2](https://github.com/cerico/macfair/compare/v0.69.1...v0.69.2) (2023-08-27)
 
 
